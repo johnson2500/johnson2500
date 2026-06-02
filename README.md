@@ -39,14 +39,6 @@ Right now, I spend my days orchestrating the **Llama Stack**, building agentic q
 
 ---
 
-### 📈 GitHub Stats
-
-|  |  |
-| --- | --- |
-
-
----
-
 ### 🎥 The Backstory (A Quick TL;DR)
 
 * **Origin Story:** It all started with an Electrical Engineering degree at UMass Dartmouth and looking at flashing router lights at State Street back in 2015.

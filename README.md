@@ -51,7 +51,7 @@ Right now, I spend my days orchestrating the **Llama Stack**, building agentic q
 
 ### 🤝 Connect with Me
 
-* 💼 [LinkedIn]([https://www.google.com/search?q=https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE/](https://www.linkedin.com/in/ryanjohnson9/))
+* 💼 [LinkedIn](https://www.linkedin.com/in/ryanjohnson9/)
 * 🐦 [Red Hat](https://www.redhat.com/en/authors/rj-johnson)
 
 ```javascript

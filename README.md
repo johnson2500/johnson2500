@@ -15,13 +15,22 @@ Right now, I spend my days orchestrating the **Llama Stack**, building agentic q
 ### 🛠️ My Tech Stack
 
 ```text
-       ┌────────────────────────────────────────────────────────┐
-       │   AI & LLMs:   CrewAI | LangChain | LangGraph | vLLM   │
-       │   Vector DBs:  PGVector | Pinecone | ChromaDB          │
-       │   Cloud & K8s: Kubernetes | OpenShift | AWS | GCP      │
-       │   Backend:     Node.js | NestJS | TypeScript | Python  │
-       │   Data:        PostgreSQL | Snowflake | Redis          │
-       └────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│   AI, LLMs & Agents: Llama Stack | CrewAI | LangChain | LangGraph | Llama Index        │
+│                      vLLM | Llama.cpp | Ollama | OpenAI | Claude | OpenClaw            │
+│                      Semantic Routing | Agentic Frameworks | RAG | Graph RAG          │
+├────────────────────────────────────────────────────────────────────────────────────────┤
+│   Vector & DBs:      PGVector | Pinecone | ChromaDB | Postgres | Mongo | MySQL         │
+│                      Snowflake | BigQuery | RDS | Redis Vector Store                   │
+├────────────────────────────────────────────────────────────────────────────────────────┤
+│   Cloud, K8s & OS:   Kubernetes | Red Hat OpenShift | AWS | GCP | Firebase             │
+│                      Red Hat Linux | Docker                                            │
+├────────────────────────────────────────────────────────────────────────────────────────┤
+│   Backend & APIs:    Node.js | NestJS | TypeScript | Python | Fast API | Express       │
+│                      HapiJS | Fast MCP | Schema & API Design | API Routing | Caching   │
+├────────────────────────────────────────────────────────────────────────────────────────┤
+│   Frontend & UI:     ReactJS | NextJS | HTML5 | CSS3 | jQuery Mobile                   │
+└────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 * **Languages:** JavaScript, TypeScript, Python, SQL

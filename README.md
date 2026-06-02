@@ -8,7 +8,7 @@ Right now, I spend my days orchestrating the **Llama Stack**, building agentic q
 
 ### 🚀 What I'm Up To
 * 🧠 **Red Hatting:** Building cutting-edge AI frameworks, RAG pipelines on Kubernetes, and agentic workflows.
-* * Checkout my blogs -> https://www.redhat.com/en/authors/rj-johnson
+  * Checkout my blogs -> https://www.redhat.com/en/authors/rj-johnson
 * 🦜 **Agent Wrangler:** Building proof-of-concepts with CrewAI, LangChain, LangGraph, and vLLM.
 * 📦 **Production AI:** Bridging the gap between raw LLMs and production-grade ML Ops.
 ---

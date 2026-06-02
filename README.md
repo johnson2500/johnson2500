@@ -49,21 +49,21 @@ Right now, I spend my days orchestrating the **Llama Stack**, building agentic q
 
 ### 🎥 The Backstory (A Quick TL;DR)
 
-* **Now:** Teaching **Red Hat OpenShift AI** how to think via agentic frameworks.
-* **Before:** Migrated media infrastructures to AWS and built custom RAG systems for journalists/lawyers at **Bongo Media**.
-* **Way Back:** Built APIs, data pipelines, and microservices for heavy-hitters like **3Play Media**, **VideoAmp**, **Disney**, and **20th Century Fox**.
 * **Origin Story:** It all started with an Electrical Engineering degree at UMass Dartmouth and looking at flashing router lights at State Street back in 2015.
+* **Way Back:** Built APIs, data pipelines, and microservices for heavy-hitters like **3Play Media**, **VideoAmp**, **Disney**, and **20th Century Fox**.
+* **Before:** Migrated media infrastructures to AWS and built custom RAG systems for journalists/lawyers at **Bongo Media**.
+* **Now:** Teaching **Red Hat OpenShift AI** how to think via agentic frameworks.
 
 ---
 
 ### 🤝 Connect with Me
 
-* 💼 [LinkedIn](https://www.google.com/search?q=https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE/)
-* 🐦 [Twitter/X](https://www.google.com/search?q=https://twitter.com/YOUR_TWITTER_HANDLE)
+* 💼 [LinkedIn]([https://www.google.com/search?q=https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE/](https://www.linkedin.com/in/ryanjohnson9/))
+* 🐦 [Red Hat](https://www.redhat.com/en/authors/rj-johnson)
 
 ```javascript
 const ryan = {
-  status: "Deploying AI agents",
+  status: "Deploying AI agents with Openshift AI",
   coffeeConsumption: "High",
   askMeAbout: ["Llama Stack", "Kubernetes", "Why my LangGraph agent is looping"]
 };

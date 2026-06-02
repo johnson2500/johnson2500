@@ -1,6 +1,3 @@
-Here is the entire README package contained in a single code block. It includes the instructions on how to use it right inside the file as commented-out text, so you can just copy the whole thing, throw it into your repository, and edit it directly in your browser or code editor!
-
-```markdown
 # Hi there, I'm Ryan but people call me RJ! 👋 🤖
 
 I am a **Principal Software Engineer at Red Hat** with over a decade of experience building scalable systems, spinning up Kubernetes clusters, and teaching AI agents how to do my job (just kidding... not really tho). 
@@ -61,9 +58,5 @@ const ryan = {
   coffeeConsumption: "High",
   askMeAbout: ["Llama Stack", "Kubernetes", "Why my LangGraph agent is looping"]
 };
-
-```
-
-```
 
 ```

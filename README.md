@@ -2,7 +2,7 @@
 
 I am a **Principal Software Engineer at Red Hat** with over a decade of experience building scalable systems, spinning up Kubernetes clusters, and teaching AI agents how to do my job (just kidding... not really tho). 
 
-Right now, I spend my days orchestrating the **Llama Stack**, building agentic quickstarts for **OpenShift AI**, and convincing autonomous agents to cooperate. 
+Right now, I spend my days orchestrating the **OGX AI** formerly **Llama Stack**, building agentic quickstarts for **OpenShift AI**, and convincing autonomous agents to cooperate. 
 
 ---
 
@@ -58,7 +58,9 @@ Right now, I spend my days orchestrating the **Llama Stack**, building agentic q
 const ryan = {
   status: "Deploying AI agents with Openshift AI",
   coffeeConsumption: "High",
-  askMeAbout: ["Llama Stack", "Kubernetes", "Why my LangGraph agent is looping"]
+  askMeAbout: ["OGX", "Openshift", "Red Hat", "Kubernetes", "Why my LangGraph agent is looping"],
+  dogs: [{ name: "Mister", kind: "chi"}, {"name":"Penelope","kind":"chi"}],
+  rules: "Be kind"
 };
 
 ```
